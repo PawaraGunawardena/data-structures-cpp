@@ -1,0 +1,1 @@
+Navigate to each data structure folder and follow ReadMe.txt instructions in each. 
